@@ -26,4 +26,4 @@ During this process, we used BeautifulSoup and Splinter to automate a web browse
 ## Fig.1
  
  ### Mission to Mars
- ![mars.PNG](Developer/mars.png)
+ ![mars.PNG](PNG/mars.png)
