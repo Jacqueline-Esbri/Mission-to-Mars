@@ -31,4 +31,4 @@ During the final process, we used BeautifulSoup and Splinter to automate a web b
 ## Fig. 2
 
 ### Mission to Mars app after changes
-![mars_re.PNG](PNGs/mars_re.png)
+![mars_rev.PNG](PNGs/mars_rev.png)
