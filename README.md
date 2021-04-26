@@ -7,10 +7,10 @@ The purpose of this analysis was to build our skills on web scraping methods. Th
 The final analysis required the creation of three technical analysis:
 
 1. Scrape Full-Resolution Mars Hemisphere images with titles.
-2. Update the Web App with Mars Hemisphere images and titles.
-3. Add Bootstrap 3 components.
+2. Create and update a web application with Mars Hemisphere images and titles.
+3. Add Bootstrap components to the app.
 
-During this process, we used BeautifulSoup and Splinter to automate a web browser and conduct a web scrape. A MongoDB database and a web application with Flask were created to store and display the data from the web scrape. The final step was executed using Bootstrap components to polish and customize the portfolio created to showcase the project. 
+During this process, we used BeautifulSoup and Splinter to automate a web browser and conduct a web scrape. A MongoDB database and a web application with Flask were created to store and display the data from the web scrape. The final step was executed using Bootstrap components to polish and customize the app created to showcase the project. 
 
 
 ## Resources
