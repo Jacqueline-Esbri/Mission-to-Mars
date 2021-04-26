@@ -30,5 +30,5 @@ During this process, we used BeautifulSoup and Splinter to automate a web browse
 
 ## Fig. 2
 
-### Misiion to Mars app after changes
+### Mission to Mars app after changes
 ![mars_re.PNG](PNGs/mars_re.png)
