@@ -1,8 +1,14 @@
 # Mission-to-Mars
+![mod10.png](PNGs/mod10.png)
 
-## Purpose
 
-The purpose of this project was to build up skills on web scraping methods. The task for this project was based on automating a web browser to visit different websites and extract data. Additionally, HTML elements and attributes were used in order to identify content for web scraping. The main goal of the task was put together a web-scraping project about the Mission to Mars.
+## Overview
+
+The purpose of this assignment was to create a web scraping project about the Mission to Mars. Various tools were needed to extract information from active websites. For a successful scrape, Chrome Developer was used to identify the HTML components attached to the desired data. BeautifulSoup and Splinter was used to automated  the scrape. Mongo, a NoSQL database, was used to store the data. A web application, using Flask, was created to display it. 
+
+The web application was built using a combination of HTML and CSS. Once built, a Python script was written using BeautifulSoup and Splinter to extract data needed for the analysis. 
+
+A button was added to execute the scraping code and update the pages to display the newest data. Bootstrap components were also used to customize and polish the web app created to showcase the project.
 
 The final process for the web-scraping project required the creation of three technical analysis:
 
@@ -10,9 +16,7 @@ The final process for the web-scraping project required the creation of three te
 2. Create and update a web application with Mars Hemisphere images and titles.
 3. Add Bootstrap components to the app.
 
-During the final process, we used BeautifulSoup and Splinter to automate a web browser and conduct a web scrape. Bootstrap components were used to customize and polish the web app created to showcase the project. A MongoDB database and a web application with Flask were also created to store and display the data from the web scrape.  
-
-
+ 
 ## Resources
 
 - Flask
@@ -21,6 +25,7 @@ During the final process, we used BeautifulSoup and Splinter to automate a web b
 - BeautifulSoup & Splinter
 - Bootstrap
 - Python, Jupyter Notebook, and VSCode
+- Chrome Developer
 
 
 ## Fig.1
