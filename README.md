@@ -30,10 +30,10 @@ The final process for the web-scraping project required the creation of three te
 
 ## Fig.1
  
- ### Mission to Mars app before changes
+ ### Mission to Mars App (before changes)
 ![mars_pic.PNG](PNGs/mars_pic.png)
 
 ## Fig. 2
 
-### Mission to Mars app after changes
+### Mission to Mars App (after changes)
 ![mars_rev.PNG](PNGs/mars_rev.png)
