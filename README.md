@@ -4,11 +4,11 @@
 
 ## Overview
 
-The purpose of this assignment was to create a web scraping project about the Mission to Mars. Various tools were needed to extract information from active websites. For a successful scrape, Chrome Developer was used to identify the HTML components attached to the desired data. BeautifulSoup and Splinter was used to automated  the scrape. Mongo, a NoSQL database, was used to store the data. A web application, using Flask, was created to display it. 
+The purpose of this assignment was to create a web scraping project about the Mission to Mars. Various tools were needed to extract information from active websites. For a successful scrape, Chrome Developer was used to identify the HTML components attached to the desired data. BeautifulSoup and Splinter was used to automate the scrape, and MongoDB (a NoSQL database) to store the data. To display it, a web application using Flask was created. 
 
-The web application was built using a combination of HTML and CSS. Once built, a Python script was written using BeautifulSoup and Splinter to extract data needed for the analysis. 
+The web application was built using a combination of HTML and CSS. Once built, a Python script was written using BeautifulSoup and Splinter to extract the data needed for the analysis. 
 
-A button was added to execute the scraping code and update the pages to display the newest data. Bootstrap components were also used to customize and polish the web app created to showcase the project.
+A button was added to execute the scraping code and update the pages to display the newest data. Bootstrap components were also used to customize and polish the web application created to showcase the project.
 
 The final process for the web-scraping project required the creation of three technical analysis:
 
@@ -20,7 +20,7 @@ The final process for the web-scraping project required the creation of three te
 ## Resources
 
 - Flask
-- NoSQL Mongo database
+- MongoDB (NoSQL database)
 - HTML elements
 - BeautifulSoup & Splinter
 - Bootstrap
