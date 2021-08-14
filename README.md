@@ -4,7 +4,7 @@
 
 ## Overview
 
-The purpose of this assignment was to create a web scraping project about the Mission to Mars. Various tools were needed to extract information from active websites. For a successful scrape, Chrome Developer was used to identify the HTML components attached to the desired data. BeautifulSoup and Splinter was used to automate the scrape, and MongoDB (a NoSQL database) to store the data. To display it, a web application using Flask was created. 
+The purpose of this assignment was to create a web scraping project on data pertaining to the Mission to Mars. Various tools were needed to extract information from active websites. For a successful scrape, Chrome Developer was used to identify the HTML components attached to the desired data. BeautifulSoup and Splinter was used to automate the scrape, and MongoDB (a NoSQL database) to store the data. To display it, a web application using Flask was created. 
 
 The web application was built using a combination of HTML and CSS. Once built, a Python script was written using BeautifulSoup and Splinter to extract the data needed for the analysis. 
 
